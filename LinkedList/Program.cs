@@ -12,6 +12,7 @@ namespace DataStructure
             LinkedList.AddReverse(30);
             LinkedList.AddReverse(70);
             LinkedList.Display();
+            LinkedList.InsertAtParticularPosition(2, 30);
             Console.WriteLine("------");
         }
     }
